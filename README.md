@@ -26,12 +26,12 @@ The data comes pre-processed to fit into 4 files totalling just over 10 MB.
 Once the necessary Python packages are installed, all that is required is to run the notebook cells
 
 ### Commands
-Install the necessary python packages:
+Clone this repository:
 ```bash
 git clone https://github.com/rsamconn/Fibre-optics-demo.git
 ```
 
-Clone this repository:
+Install the necessary python packages:
 ```bash
 pip install pandas numpy matplotlib datetime jupyter
 ```
